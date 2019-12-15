@@ -5,16 +5,16 @@ body {
 }
 
 .left {
-	width: 100%;
+	width: 50%;
 	float: left;
-	height: 25vh;
+	height: 100vh;
 	position: absolute;
 }
 
 .right {
-	width: 100%;
+	width: 50%;
 	float: right;
-	height: 75vh;
+	height: 100vh;
 	display: flex;
 	align-items: center;
 }
